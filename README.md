@@ -8,6 +8,7 @@ Useful ressources:
 Gmsh : Open source 3D finite element mesh generator with a built-in CAD engine and post-processor
       Note for gmsh : Pip install gmsh
       *The gmsh package in conda-forge don't provide the Python API. Please install gmsh using pip install gmsh. If you still prefer to use conda, you can download the python-gmsh package from the conda-forge channel using conda install -c conda-forge gmsh python-gmsh. Here you will find the Python API you're looking for.  https://stackoverflow.com/questions/70947216/python-cant-use-gmsh-after-installing-via-pip-and-conda
+      
 Gmshmodel : Gmshmodel provides a Python-API with which all the capabilites of Gmsh can be used within Python
 FEniCS: Open-source computing platform for solving partial differential equations (PDEs) with the finite element method (FEM)
 •How to install FEniCSx/DOLPHINx
