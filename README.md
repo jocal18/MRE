@@ -8,8 +8,6 @@ This repository contains scripts, geometries, and simulation results associated 
 - `/results`: Contains representative simulation outputs (.xdmf format).
 - `*.py`: Python scripts used for geometry generation, simulation, and post-processing.
 
-> **Note**: The geometry and results directories are shared externally due to their size limitations. Please refer to the linked folders in your project environment for access.
-
 ---
 
 ## 🛠 Tools and Installation
